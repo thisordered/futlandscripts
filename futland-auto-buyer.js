@@ -18,7 +18,7 @@
 // @require     https://code.jquery.com/jquery-3.6.1.min.js
 // @require     https://raw.githubusercontent.com/ckalgos/FUT-Auto-Buyer/main/external/discord.11.4.2.min.js
 // @require     https://greasyfork.org/scripts/47911-font-awesome-all-js/code/Font-awesome%20AllJs.js?version=275337
-// @require     https://cdn.jsdelivr.net/gh/thisordered/futlandscripts@master/futland-fte.user.js
+// @require     https://cdn.jsdelivr.net/gh/thisordered/futlandscripts@main/futland-fte.user.js
 // @updateURL   https://github.com/ckalgos/fut-auto-buyer/releases/latest/download/fut-auto-buyer.user.js
 // @downloadURL https://github.com/ckalgos/fut-auto-buyer/releases/latest/download/fut-auto-buyer.user.js
 // @noFrame     
